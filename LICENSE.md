@@ -1,14 +1,16 @@
 # License - ライセンス
 
-"Camps" and "Hiroshima Sandbox" is Copyright (C) Hiroshima Prefecture. All Rights Reserved.
+"Camps" and "Hiroshima Sandbox" is Copyright (C) Hiroshima Prefecture. All Rights Reserved.  
 The Model data is CC4 BY-SA 4.0 by Hiroshima Unity Workshop.
 
 --------------------------------
-Campsおよびヒロシマサンドボックスのロゴは広島県の著作物となります。
-許諾なしにいかなる再配布などをしないようにお願いします。
 
+Campsおよびヒロシマサンドボックスのロゴは広島県の著作物となります。
+
+許諾なしにいかなる再配布などをしないようにお願いします。  
 モデルデータは広島Unity勉強会が、
 クリエイティブコモンズ表示 - 継承 4.0 国際S (CC BY-SA 4.0) で配布します。
+
 --------------------------------
 
 Attribution-NonCommercial-ShareAlike 4.0 International
