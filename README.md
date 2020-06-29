@@ -7,4 +7,4 @@ Blender形式です。
 ![Eevee_Rendering](https://github.com/kamera25/Camps-Hiroshima-Model/blob/master/Example/Render2.jpg "イーブイでのレンダリング")
 
 ## ライセンス
- 事前に [README.md](https://github.com/kamera25/Camps-Hiroshima-Model/blob/master/README.md) をご確認ください。
+ ご利用の前に [LICENSE.md](https://github.com/kamera25/Camps-Hiroshima-Model/blob/master/LICENSE.md) をご確認ください。
